@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleName": "com.hmosdemos.smartlux",
+    "bundleName": "com.hmosdemos.wearable.how_to_make_smart_lux",
     "vendor": "hmosdemos",
     "versionCode": 1000000,
     "versionName": "1.0.0",

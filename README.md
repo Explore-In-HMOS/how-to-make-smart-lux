@@ -1,6 +1,5 @@
 > **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
 
-
 # How to use light sensor
 
 SmartLux is a HarmonyOS application that reads the real-time ambient light (lux) using the device's light sensor and dynamically adjusts the UI theme and brightness logic accordingly. It also supports background execution to keep monitoring light changes even when the app is minimized.
